@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 	/**
-	 * lol 1
+	 * lol 1 veliki kurac
 	 * @param args
 	 */
 	public static void main(String[] args) {
